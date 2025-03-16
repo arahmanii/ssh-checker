@@ -9,11 +9,6 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-windos 
-
-# venv\Scripts\activate
-
-
 # first install
 ```shell
 pip install paramiko
