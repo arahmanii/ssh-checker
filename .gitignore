@@ -1,0 +1,77 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# virtualenv
+venv/
+ENV/
+env/
+venv.bak/
+env.bak/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Eclipse
+.project
+.pydevproject
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.cache/
+
+# Coverage
+.coverage
+.coverage.*
+
+# Sphinx documentation
+docs/_build/
+
+# VSCode specific
+.vscode/*
+
+# IDEs or text editors
+# JetBrains IDEs (e.g. IntelliJ IDEA, PyCharm, WebStorm)
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Other
+*.log
+*.bak
+*.swp
+
+failed.txt
+successful.txt
+full.txt
+hit.txt
